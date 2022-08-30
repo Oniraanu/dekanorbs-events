@@ -1,0 +1,68 @@
+{
+    "accounts": [
+      {
+        "firstName": "Amaka",
+        "lastName": "bae",
+        "email": "ezeirunnechiamaka@gmail.com",
+        "phone": "458906543",
+        "password": "Amara",
+        "confirmPassword": "Amara",
+        "id": 1
+      },
+      {
+        "firstName": "Faith",
+        "lastName": "Peace",
+        "email": "ezeirunnechiamaka@gmail.com",
+        "phone": "25773879379",
+        "password": "amara",
+        "confirmPassword": "amara",
+        "id": 2
+      }
+    ],
+  
+    "events": [
+      {
+          "id": 1,
+          "date_created" : "2015-12-23",
+          "date_updated" : "2015-12-23",
+          "location" : "",
+          "venue" : "",
+          "stop_time": "",
+          "start_time": "",
+          "event_theme": "",
+          "description" : "",
+          "event_category" : "",
+          "event_date" : "",
+          "user": "" ,
+          "host": "",
+          "guests": [],
+          "attendees" : [],
+          "event_banner": "",
+          "event_image": "",
+          "sponsors" : [],
+          "ticket_category": "",
+          "ticket_fee" : "",
+          "event_team" : [],
+          "event_dress_code" : "",
+          "number_of-seats" : "",
+          "available_tickets" : ""
+      }
+    ],
+  
+    "fakeEvents": [
+      {
+        "title": "Alakija",
+        "description" : "today is the day the lord has made"
+      },
+  
+      {
+        "title": "Norbs",
+        "description" : "Get together land"
+      },
+  
+      {
+          "title": "Ujay",
+        "description" : "today is the day the lord has made"
+      }
+    ]
+  }
